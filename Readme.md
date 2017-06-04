@@ -6,7 +6,7 @@ https://github.com/huseyinjkilic/eureka_server
 
 Here is Eureka_server instance screenshot where eureka_client register as a service;
 
-https://github.com/huseyinjkilic/eureka_server/blob/master/instances_screenshot.png
+![alt text](https://github.com/huseyinjkilic/eureka_server/blob/master/instances_screenshot.png)
 
 Docker image could not be created. Could not solved maven dependency problem.
 Even though it works in STS, Maven has failed in command line jar creation stage.
