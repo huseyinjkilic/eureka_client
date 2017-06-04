@@ -13,4 +13,4 @@ Even though it works in STS, Maven has failed in command line jar creation stage
 It is plug-in related for my guess but Couldn't solved the problem.
 
 Unit tests only for database related operations. Couldn't write for Rest Methods.
-Try with MockupMVC but couldn't have to finish that part.
+Try with MockupMVC but I couldn't have time to finish that part.
