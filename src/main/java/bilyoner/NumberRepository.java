@@ -11,8 +11,6 @@ public interface NumberRepository extends MongoRepository<Number, Integer> {
     public List<Number> findAll();
     public Number findFirstByOrderByNumberAsc();
     public Number findFirstByOrderByNumberDesc();
-  //  public void delete(Numbers number);
     public Integer deleteByNumber(Integer number);
-    //List<Numbers> findAllOrderByNumberAsc();
-     List<Number> findAll(Sort sort);
+    List<Number> findAll(Sort sort);
 }
